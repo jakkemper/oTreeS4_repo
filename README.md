@@ -1,5 +1,5 @@
 # oTreeS4_repo
-This repository contains example oTree apps that are helpful when conduction studies with oTree. It is part of the [oTreeS4 project](https://thegempie.github.io/oTreeS4/).
+This repository contains example oTree apps that are helpful when conducting studies with oTree. It is part of the [oTreeS4 project](https://thegempie.github.io/oTreeS4/).
 
 ## Description of apps
 
