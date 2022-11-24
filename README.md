@@ -3,10 +3,12 @@ This repository contains example oTree apps that are helpful when conducting stu
 
 ## Description of apps
 
-- gbat_randomized
+- GBAT_group_treatment_timeout
   - This app combines three funtionalities: Participants are matched on waiting page, if possible, into groups of two. If participants have to wait too long, they are forwarded to a single player app. At the group level, two treatment conditions are randomised.
-- extra_model_longitudinal
-  - This app has the functionality to store participant data in an extra model (see the [oTree documentation](https://otree.readthedocs.io/en/latest/misc/advanced.html#extramodel)) for use at a later time
+
+- public_goods_bots_for_dropouts
+  - This is a simple public goods game where dropouts are replaced by bots. Players who remained in the experiment are not aware that they are playing with bots.
+
 
 ## Licence
 All apps presented here are licensed under the MIT open source license.
